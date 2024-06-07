@@ -1,5 +1,5 @@
 import React from 'react';
-import { Space, Button } from 'wskco';
+import { Space, Button } from 'MINKEN';
 
 export default function index1() {
   return (

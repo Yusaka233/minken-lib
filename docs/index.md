@@ -1,22 +1,22 @@
 ---
 hero:
-  title: library
+  title: Minken's library
   description: A react library developed with dumi
   actions:
-    - text: Hello
-      link: /
-    - text: World
-      link: /
+    - text: 开始使用
+      link: /components/Alert
+    - text: 查看介绍
+      link: /guide
 features:
-  - title: Hello
+  - title: 闪耀夺目
     emoji: 💎
-    description: Put hello description here
-  - title: World
+    description: 指闪耀如构式（
+  - title: 绚烂多彩
     emoji: 🌈
-    description: Put world description here
-  - title: '!'
+    description: 指东拼西凑了大量其他大佬的开源内容（
+  - title: 飞起来！
     emoji: 🚀
-    description: Put ! description here
+    description: 指粗制滥造到飞起来（
 ---
 
-MINKEN
+

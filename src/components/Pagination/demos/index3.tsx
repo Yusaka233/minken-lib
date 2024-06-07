@@ -1,5 +1,5 @@
 import React from 'react';
-import { Pagination } from 'wskco';
+import { Pagination } from 'MINKEN';
 
 export default function PatginationDemo3() {
   const options = [10, 20, 30, 50];

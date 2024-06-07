@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { List } from 'wskco';
+import { List } from 'MINKEN';
 import './_index.scss';
 
 export default function listDemo1() {

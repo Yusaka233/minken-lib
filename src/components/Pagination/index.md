@@ -18,17 +18,17 @@ group:
 
 ## 基本使用
 
-<code src="./demos/index1.tsx"/>
+<code src="./demos/index1.tsx"></code>
 
 ## 大数据分页
 
-<code src="./demos/index2.tsx"/>
+<code src="./demos/index2.tsx"></code>
 
 ## 每页条数限制
 
-<code src="./demos/index3.tsx"/>
+<code src="./demos/index3.tsx"></code>
 
 ## 输入框跳转
 
-<code src="./demos/index4.tsx"/>
+<code src="./demos/index4.tsx"></code>
 <API/>

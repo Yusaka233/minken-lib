@@ -1,28 +1,28 @@
 import React, { useState } from 'react';
-import { List } from 'wskco';
+import { List } from 'MINKEN';
 import './_index.scss';
 
 export default function listDemo1() {
   const dataSource = [
     {
-      title: 'Beijing Bytedance Technology Co., Ltd.',
-      content: 'Beijing ByteDance Technology Co., Ltd. is an enterprise located in China.',
+      title: '《原神》是由米哈游自主研发的一款全新开放世界冒险游戏.',
+      content: 'Genshin Impact is a new open-world adventure game independently developed by miHoYo.',
     },
     {
-      title: 'Bytedance Technology Co., Ltd.',
-      content: 'Beijing ByteDance Technology Co., Ltd. is an enterprise located in China.',
+      title: '《原神》是由米哈游自主研发的一款全新开放世界冒险游戏.',
+      content: 'Genshin Impact is a new open-world adventure game independently developed by miHoYo.',
     },
     {
-      title: 'Beijing Toutiao Technology Co., Ltd.',
-      content: 'Beijing ByteDance Technology Co., Ltd. is an enterprise located in China.',
+      title: '《原神》是由米哈游自主研发的一款全新开放世界冒险游戏.',
+      content: 'Genshin Impact is a new open-world adventure game independently developed by miHoYo.',
     },
     {
-      title: 'Beijing Volcengine Technology Co., Ltd.',
-      content: 'Beijing ByteDance Technology Co., Ltd. is an enterprise located in China.',
+      title: '《原神》是由米哈游自主研发的一款全新开放世界冒险游戏.',
+      content: 'Genshin Impact is a new open-world adventure game independently developed by miHoYo.',
     },
     {
-      title: 'China Beijing Bytedance Technology Co., Ltd.',
-      content: 'Beijing ByteDance Technology Co., Ltd. is an enterprise located in China.',
+      title: '《原神》是由米哈游自主研发的一款全新开放世界冒险游戏.',
+      content: 'Genshin Impact is a new open-world adventure game independently developed by miHoYo.',
     },
   ];
 

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { GlobalConfig, Button,Space } from 'wskco';
+import { GlobalConfig, Button,Space } from 'MINKEN';
 
 export default function index1() {
   const [globalColor, setGlobalColor] = useState('');

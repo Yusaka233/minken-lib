@@ -5,4 +5,11 @@ export default defineConfig({
   themeConfig: {
     name: 'MINKEN',
   },
+  resolve: {
+    atomDirs: [
+      { type: 'component', dir: 'src/components'},
+      
+    ],
+  },
+  
 });

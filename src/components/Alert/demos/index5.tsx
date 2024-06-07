@@ -1,5 +1,5 @@
 import React from 'react';
-import { Alert } from 'wskco';
+import { Alert } from 'MINKEN';
 
 const Index5 = () => {
   const margin = { margin: '15px 0' };

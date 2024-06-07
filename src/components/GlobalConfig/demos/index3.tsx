@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { GlobalConfig, Button } from 'wskco';
+import { GlobalConfig, Button } from 'MINKEN';
 
 export default function index1() {
   const [dark, setDark] = useState(

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Divider } from 'wskco';
+import { Divider } from 'MINKEN';
 
 export default function DividerDemo2() {
   return (

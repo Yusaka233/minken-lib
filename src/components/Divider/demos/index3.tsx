@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Divider } from 'wskco';
+import { Divider } from 'MINKEN';
 
 const index3 = () => {
   return (

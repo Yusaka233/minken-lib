@@ -1,5 +1,5 @@
 import React from 'react';
-import { Select } from 'wskco';
+import { Select } from 'MINKEN';
 /**
  * transform: true
  */

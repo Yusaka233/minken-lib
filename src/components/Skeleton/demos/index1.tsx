@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Skeleton } from 'wskco';
+import { Skeleton } from 'MINKEN';
 
 const Index1 = () => {
   return (

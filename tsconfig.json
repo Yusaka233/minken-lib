@@ -1,16 +1,41 @@
 {
   "compilerOptions": {
-    "strict": true,
-    "declaration": true,
-    "skipLibCheck": true,
-    "esModuleInterop": true,
+    "target": "es6",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "importHelpers": true,
     "jsx": "react",
+    "esModuleInterop": true,
+    "sourceMap": true,
     "baseUrl": "./",
+    "strict": true,
+    "skipLibCheck": true,
+    "declaration": true,
     "paths": {
-      "@@/*": [".dumi/tmp/*"],
+      "@/*": ["src/*"],
+      "@@/*": ["src/.umi/*"],
       "MINKEN": ["src"],
       "MINKEN/*": ["src/*", "*"]
-    }
+    },
+    "allowSyntheticDefaultImports": true
   },
-  "include": [".dumirc.ts", "src/**/*"]
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.tsx", 
+    "typings.d.ts",
+    ".dumirc.ts",
+    
+  ],
+  "exclude": [
+    "node_modules",
+    "lib",
+    "es",
+    "dist",
+    "typings",
+    "**/__test__",
+    "test",
+    "docs",
+    "tests"
+  ]
 }

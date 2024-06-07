@@ -1,5 +1,5 @@
 import React from 'react';
-import { Alert } from 'wskco';
+import { Alert } from 'MINKEN';
 
 const Index1 = () => {
   return (

@@ -1,16 +1,16 @@
 import React from 'react';
-import { List } from 'wskco';
+import { List } from 'MINKEN';
 import './_index.scss';
 
 
 export default function listDemo1() {
 
   const dataSource = [
-    'Beijing Bytedance Technology Co., Ltd.',
-    'Bytedance Technology Co., Ltd.',
-    'Beijing Toutiao Technology Co., Ltd.',
-    'Beijing Volcengine Technology Co., Ltd.',
-    'China Beijing Bytedance Technology Co., Ltd.',
+    '你说的对，但是.',
+    '《原神》是由米哈游自主研发的一款全新开放世界冒险游戏.',
+    '游戏发生在一个被称作「提瓦特」的幻想世界.',
+    '在这里，被神选中的人将被授予「神之眼」.',
+    '导引元素之力.',
   ];
 
   return (

@@ -41,7 +41,7 @@ group:
 
 最基础的按钮，共有 7 种状态。
 
-<code src="./demos/index1.tsx" />
+<code src="./demos/index1.tsx" ></code>
 
 ## 按钮尺寸
 
@@ -51,18 +51,17 @@ group:
 
 通过设置 size 为 large small 分别把按钮设为大、小尺寸。若不设置 size，则尺寸为中。
 
-<code src="./demos/index2.tsx" />
+<code src="./demos/index2.tsx" ></code>
 
 ## 字体按钮
 
 配置 circle 变成圆按钮。
 
-<code src="./demos/index3.tsx" />
+<code src="./demos/index3.tsx" ></code>
 
 ## 禁用按钮
 
 配置 disabled 禁用按钮。
 
-<code src="./demos/index4.tsx" />
+<code src="./demos/index4.tsx" ></code>
 
-<API exports='["API"]'></API>

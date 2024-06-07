@@ -1,5 +1,5 @@
 import React from 'react';
-import { Switch } from 'wskco';
+import { Switch } from 'MINKEN';
 
 export default function index1() {
 

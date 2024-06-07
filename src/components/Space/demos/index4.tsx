@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Space, Button } from 'wskco';
+import { Space, Button } from 'MINKEN';
 
 export default function index1() {
   const [size, setSize] = useState(8);

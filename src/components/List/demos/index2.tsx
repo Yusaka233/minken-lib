@@ -1,15 +1,15 @@
 import React, { useState } from 'react';
-import { List } from 'wskco';
+import { List } from 'MINKEN';
 import './_index.scss';
 
 export default function listDemo1() {
   const [listSize, setListSize] = useState('default');
   const dataSource = [
-    'Beijing Bytedance Technology Co., Ltd.',
-    'Bytedance Technology Co., Ltd.',
-    'Beijing Toutiao Technology Co., Ltd.',
-    'Beijing Volcengine Technology Co., Ltd.',
-    'China Beijing Bytedance Technology Co., Ltd.',
+    '《原神》是由米哈游自主研发的一款全新开放世界冒险游戏.',
+    '《原神》是由米哈游自主研发的一款全新开放世界冒险游戏.',
+    '《原神》是由米哈游自主研发的一款全新开放世界冒险游戏.',
+    '《原神》是由米哈游自主研发的一款全新开放世界冒险游戏.',
+    '《原神》是由米哈游自主研发的一款全新开放世界冒险游戏.',
   ];
 
   return (

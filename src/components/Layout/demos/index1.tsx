@@ -1,5 +1,5 @@
 import React from 'react';
-import { Layout, Header, Content, Footer, Slider } from 'wskco';
+import { Layout, Header, Content, Footer, Slider } from 'MINKEN';
 
 export default function LayoutDemo1() {
   const headerStyle = {

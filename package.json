@@ -57,8 +57,11 @@
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
+    "@types/faker": "^6.6.9",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "@types/react-transition-group": "^4.4.10",
+    "@types/react-window": "^1.8.8",
     "@umijs/lint": "^4.0.0",
     "dumi": "^2.3.0",
     "eslint": "^8.23.0",
@@ -71,5 +74,12 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "stylelint": "^14.9.1"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.3.7",
+    "faker": "^6.6.6",
+    "react-transition-group": "^4.4.5",
+    "react-window": "^1.8.10",
+    "xlsx": "^0.18.5"
   }
 }

@@ -5,3 +5,4 @@ declare module '*.png';
 declare module '*.svg';
 declare module 'MINKEN';
 declare module 'xlsx';
+

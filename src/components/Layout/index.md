@@ -23,12 +23,12 @@ group:
 
 典型的页面布局。
 
-<code src="./demos/index1.tsx"/>
+<code src="./demos/index1.tsx"></code>
 
 ## 自定义布局
 
 <p>根据业务需求，自定义布局样式</p>
 
-<code src="./demos/index2.tsx"/>
+<code src="./demos/index2.tsx"></code>
 
-<API src='./index.tsx'></API>
+

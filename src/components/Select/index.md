@@ -17,22 +17,22 @@ group:
 
 ## 基本使用
 
-<code src="./demos/index1.tsx" />
+<code src="./demos/index1.tsx" ></code>
 
 ## 禁用
 
-<code src="./demos/index2.tsx" />
+<code src="./demos/index2.tsx" ></code>
 
 ## 加载
 
-<code src="./demos/index3.tsx" />
+<code src="./demos/index3.tsx" ></code>
 
 ## 下拉项单独禁用
 
-<code src="./demos/index4.tsx" />
+<code src="./demos/index4.tsx" ></code>
 
 ## 可输入
 
-<code src="./demos/index5.tsx" />
+<code src="./demos/index5.tsx" ></code>
 
 <API></API>

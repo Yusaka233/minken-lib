@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Space, Button } from 'wskco';
+import { Space, Button } from 'MINKEN';
 
 const index = () => {
   const containerStyle = {

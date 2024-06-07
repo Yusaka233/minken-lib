@@ -4,7 +4,7 @@ import {
   MailOutlined,
   SettingOutlined,
 } from '@ant-design/icons';
-import { Menu } from 'wskco';
+import { Menu } from 'MINKEN';
 
 export default function MenuDemos1() {
   const getItem = (

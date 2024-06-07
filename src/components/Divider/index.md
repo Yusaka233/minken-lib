@@ -21,24 +21,24 @@ group:
 
 默认为水平分割线，可在中间加入文字。
 
-<code src="./demos/index1.tsx"/>
+<code src="./demos/index1.tsx"></code>
 
 ## 带文字的分割线
 
 分割线中带有文字，可以用 orientation / left / right 指定文字位置。使用 left / right 时， orientation 无效。
 
-<code src="./demos/index2.tsx"/>
+<code src="./demos/index2.tsx"></code>
 
 ## 分割文字使用正文样式
 
 使用 textStyle 可以设置分割文字样式。
 
-<code src="./demos/index3.tsx"/>
+<code src="./demos/index3.tsx"></code>
 
 ## 垂直分割线
 
 使用 type="vertical" 设置为行内的垂直分割线。
 
-<code src="./demos/index4.tsx"/>
+<code src="./demos/index4.tsx"></code>
 
-<API></API>
+

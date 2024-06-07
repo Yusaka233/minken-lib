@@ -16,7 +16,8 @@ group:
 GlobalConfig 使用 React 的 context 特性，只需在应用外围包裹一次即可全局生效。
 
 ```tsx pure
-import { GlobalConfig } from 'wskco';
+import App from './index.tsx';
+import { GlobalConfig } from 'MINKEN';
 
 // ...
 
@@ -29,9 +30,9 @@ export default () => (
 
 ## 系统主题
 
-此处列出了所有支持主题色自定义的组件，你可以在演示中切换主题色。
+此处列出了所有支持主题色自定义的组件，你可以在演示中切换主题色。(没看错就只支持按钮组件...)
 
-<code src="./demos/index1.tsx"/>
+<code src="./demos/index1.tsx"></code>
 
 ## 自定义主题
 
@@ -39,16 +40,11 @@ export default () => (
 
 在使用了暗黑模式的基础下， 不建议同时使用自定义主题，虽然也做了兼容。
 
-<code src="./demos/index2.tsx"/>
+<code src="./demos/index2.tsx"></code>
 
 ## 明暗主题
 
-<code src="./demos/index3.tsx"/>
+<code src="./demos/index3.tsx"></code>
 
-我们推荐使用自带的项目背景色和字体色，配置如下：
 
-```css pure
-@import 'wskco/global.scss';
-```
 
-<API />

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Space } from 'wskco';
+import { Button, Space } from 'MINKEN';
 
 const index2 = () => {
   return (
