@@ -81,5 +81,6 @@
     "react-transition-group": "^4.4.5",
     "react-window": "^1.8.10",
     "xlsx": "^0.18.5"
-  }
+  },
+  "homepage": "httpshttps://yusaka233.github.io/minken-lib/"
 }
