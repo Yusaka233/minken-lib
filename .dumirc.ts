@@ -6,7 +6,7 @@ export default defineConfig({
   themeConfig: {
     name: 'MINKEN',
   },
-  mode: 'site',
+  
   base:'/MINKEN/',
   publicPath:'/MINKEN/',
   exportStatic: {},
